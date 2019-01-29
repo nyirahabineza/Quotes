@@ -30,8 +30,8 @@ No bugs so far.
     4. node
     5. Html
 
-## 
+## Support and contact details
 Contact me on habcecile@gmail.com for any comments, reviews or advice.
 
-### License
+### 
 **[MIT]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
