@@ -1,4 +1,4 @@
-import { Component, ,Output, EventEmitter } from '@angular/core';
+import { Component,OnInit ,Output,  } from '@angular/core';
 import {Quote} from '../quotes';
 @Component({
   selector: 'app-quote-form',
