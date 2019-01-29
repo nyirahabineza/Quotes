@@ -23,14 +23,14 @@ there is also a paragraph that shows the time passed for that quate post.
 ## Known Bugs
 No bugs so far. 
 
-##
+## Technologies Used
     1. Angular
     2. Bootstrap
     3. typescript
     4. node
     5. Html
 
-## Support and contact details
+## 
 Contact me on habcecile@gmail.com for any comments, reviews or advice.
 
 ### License
