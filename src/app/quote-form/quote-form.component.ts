@@ -1,4 +1,4 @@
-import { Component, OnInit,Output, EventEmitter } from '@angular/core';
+import { Component, ,Output, EventEmitter } from '@angular/core';
 import {Quote} from '../quotes';
 @Component({
   selector: 'app-quote-form',
@@ -14,7 +14,7 @@ newQuote = new Quote("","","",0,0,new Date(""));
     }
     constructor(){}
     ngOnInit(){
-      
+
     }
 }
 
