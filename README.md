@@ -18,8 +18,9 @@ there is also a paragraph that shows the time passed for that quate post.
 * you have reach on it.
 
 ## Preview
-**[
-## Known Bugs
+**[Click here]https://github.com/nyirahabineza/quotes.gi** to see the live site.
+
+## 
 No bugs so far. 
 
 ## Technologies Used
