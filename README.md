@@ -2,7 +2,7 @@
 #### date  JANUARY 29th, 2019
 #### By **nyirahabineza cecile*
 
-## Description
+
 The quote project is a web project that user can have to enter the title of the quote, author that say this quate, insert the date, put the quote on the quate input text and the name of the one who submit the quate and when he type on the add button the information she/he has entered it automatically displayed on the screen. where we can view the title of the quote and the detail button. when yout type on details button you can view all information you have inserted.and you can also view 3 different button.the upvote button, delete button and delete button that delete all information
 
 ## Specifications
