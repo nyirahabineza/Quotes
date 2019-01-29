@@ -1,0 +1,14 @@
+
+<p>author:{{quote.author}}</p>
+<p>submitted by:{{quote.person}}</p>
+<p>date:{{quote.completeDate}}</p>
+<p>upvote:{{quote.upvote}}</p>
+<p>downvote:{{quote.downvote}}</p>
+
+
+<p>{{quote.completeDate|dateCount}} days ago</p>
+<div>
+        <button (click) = 'upvotes()'>Upvote </button>   
+<button (click) = 'downvotes()'> Downvote </button>
+<button class="btn btn-danger" (click) = 'quoteDelete(true)'> Delete Quotes </button> 
+</div>
