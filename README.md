@@ -17,9 +17,8 @@ there is also a paragraph that shows the time passed for that quate post.
 * go to browser and type https://github.com/nyirahabineza/quotes.gi
 * you have reach on it.
 
-## 
-**[Click here]https://github.com/nyirahabineza/quotes.gi** to see the live site.
-
+## Preview
+**[
 ## Known Bugs
 No bugs so far. 
 
