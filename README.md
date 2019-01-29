@@ -34,4 +34,4 @@ No bugs so far.
 Contact me on habcecile@gmail.com for any comments, reviews or advice.
 
 ### License
-**]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
+**[MIT]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
