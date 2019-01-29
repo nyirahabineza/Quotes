@@ -1,5 +1,5 @@
-import { } from './quotes';
-import { QuotesComponent } from './quotes/quotes.component';
+import { Quote } from './quotes';
+import {  } from './quotes/quotes.component';
 
 describe('Quotes', () => {
   it('should create an instance', () => {
