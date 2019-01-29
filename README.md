@@ -33,5 +33,5 @@ No bugs so far.
 ## Support and contact details
 Contact me on habcecile@gmail.com for any comments, reviews or advice.
 
-### 
-**[MIT]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
+### License
+**]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
