@@ -14,11 +14,12 @@ there is also a paragraph that shows the time passed for that quate post.
 ##Setup Instruction
 * to access my website you have to have a computer or smart phone
 * access internet on that device
-* go to browser and type https://github.com/nyirahabineza/quotes.gi
+* go to browser and type https://github.com/nyirahabineza/Quotes.
 * you have reach on it.
 
 ## Preview
-**[Click here]https://github.com/nyirahabineza/quotes.** to see the live site.
+
+**[Click here]https://github.com/nyirahabineza/Quotes.** to see the live site.
 
 ## Known Bugs
 No bugs so far. 
@@ -31,7 +32,9 @@ No bugs so far.
     5. Html
 
 ## Support and contact details
-Contact me on habcecile@gmail.com for any comments, reviews or advice.
+Contact me 0782136949
 
 ### License
-**[MIT]https://github.com/nyirahabineza/quotes.) ** (c) *nyirahabineza cecile*
+
+**[MIT]https://github.com/nyirahabineza/Quotes.) ** (c) *nyirahabineza cecile*
+
