@@ -7,6 +7,7 @@ import {Quote} from './quotes'
   templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
+    title= "quotes"
     quotes = [
         new Quote("cecile"," Dr. Seuss","Don't cry because it's over, smile because it happened','nyirahabineza'",0,0,new Date(2018,3,14) ),
         new Quote("cecile"," Albert Einstein","Buy Cookies','I have to buy cookies for the parrot",0,0,new Date(2018,6,9) ),

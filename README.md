@@ -18,7 +18,7 @@ there is also a paragraph that shows the time passed for that quate post.
 * you have reach on it.
 
 ## Preview
-**[Click here]https://github.com/nyirahabineza/quotes.gi** to see the live site.
+**[Click here]https://github.com/nyirahabineza/quotes.** to see the live site.
 
 ## Known Bugs
 No bugs so far. 
@@ -34,4 +34,4 @@ No bugs so far.
 Contact me on habcecile@gmail.com for any comments, reviews or advice.
 
 ### License
-**[MIT]https://github.com/nyirahabineza/quotes.gi) ** (c) *nyirahabineza cecile*
+**[MIT]https://github.com/nyirahabineza/quotes.) ** (c) *nyirahabineza cecile*
