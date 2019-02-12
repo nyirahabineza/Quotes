@@ -11,6 +11,8 @@ the user have to click on add buttton to add the title and those information to 
 there is button for details and when you clik on it it give all information you have insertedwith 3 button where you can click on upvote when you like it and downvote when you dislike it.when you clik on it the number of upvote or downvote it automatically increase.
 there is also a delete button where you can delete a dislike quate
 there is also a paragraph that shows the time passed for that quate post.
+
+
 ##Setup Instruction
 * to access my website you have to have a computer or smart phone
 * access internet on that device
